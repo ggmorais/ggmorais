@@ -1,16 +1,15 @@
-### Hi there 👋
+# Gustavo Morais 🤙🏻
 
-<!--
-**ggmorais/ggmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology in System Analysis studant 📚.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Morais-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusmorais/)](https://www.linkedin.com/in/gusmorais/) 
+[![Gmail Badge](https://img.shields.io/badge/-gusxmorais@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusxmorais@gmail.com)](mailto:gusxmorais@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-gusxmorais-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gusxmorais)](mailto:gusxmorais@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fullstack developer 🚀. Focused on data engineering and software development, always seeking more knowledge and improving myself in the most actual programming techniques.
+
+Passionate about all kind of technologies, everyday creating something new and usefull, hoping that some day my work make difference in people's life, creating a better world.
+
+<br />
+
+*"No matter how dark the night, morning always comes, and or journey begins anew."*
