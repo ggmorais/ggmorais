@@ -2,7 +2,7 @@
 
 System Analysis and Development Student 📚.  
 <br/>
-Web Fullstack | JS | Python | ETL Development.
+Python | JS | Data Engineering and Analytics.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusmorais/)](https://www.linkedin.com/in/gusmorais/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusxmorais@gmail.com)](mailto:gusxmorais@gmail.com)
