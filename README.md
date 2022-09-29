@@ -1,6 +1,6 @@
 # Gustavo Morais 🤙🏻
 
-System Analysis and Development Student 📚.  
+System Analysis and Development at UNINTER 📚.  
 <br/>
 Python | JS | Data Engineering and Analytics.
 
