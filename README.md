@@ -1,8 +1,11 @@
 # Gustavo Morais 🤙🏻
 
-System Analysis and Development at UNINTER 📚.  
+**Graduate in System Analysis and Development - UNINTER 📚**
 <br/>
-Python | JS | Data Engineering and Analytics.
+Python | JavaScript | Data Engineering & Analytics
+<br/>  
+This repository showcases my experiments, studies, and projects, where I explore new technologies, 
+validate ideas, and refine my skills. You'll find prototypes, unfinished drafts, and practical solutions created to test concepts and expand my knowledge.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusmorais/)](https://www.linkedin.com/in/gusmorais/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusxmorais@gmail.com)](mailto:gusxmorais@gmail.com)
